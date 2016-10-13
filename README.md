@@ -14,7 +14,7 @@ gem install rtsptools
 
 Or you can build/install it yourself
 ```
-gem build rtsptools.gemspec && gem install rtsptools-0.1.1.gem
+gem build rtsptools.gemspec && gem install rtsptools-0.1.2.gem
 ```
 
 
